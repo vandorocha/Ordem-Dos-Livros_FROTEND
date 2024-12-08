@@ -16,6 +16,7 @@
         <MenuItem texto = "J.K. Rowling" href = "/autores/j-k-rowling" />
         <MenuItem texto = "J.R.R. Tolkien" href = "/autores/j-r-r-tolkien" />
         <MenuItem texto = "George R.R. Martin" href = "/autores/george-r-r-martin" />
+        <MenuItem texto = "Robert T. Kiyosaki" href = "/autores/kiyosaki-robert-t" />
     </Menu>
     <Menu titulo = "Outras Categorias">
         <MenuItem texto = "Últimas Notícias" href = "/" />

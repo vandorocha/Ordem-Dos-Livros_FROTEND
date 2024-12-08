@@ -119,6 +119,47 @@ George R.R. Martin é amplamente reconhecido como um dos mais influentes autores
 > *"Um leitor vive mil vidas antes de morrer. O homem que nunca lê vive apenas uma."* - George R.R. Martin
         `,
   },
+  {
+    id: "kiyosaki-robert-t",
+    nome: "Robert T. Kiyosaki",
+    imagem: "https://www.famous-entrepreneurs.com/images/robert-kiyosaki.jpg",
+    biografia: `
+  # Robert T. Kiyosaki
+  
+  **Robert Toru Kiyosaki**, mais conhecido como **Robert T. Kiyosaki**, é um empresário, autor e palestrante motivacional americano, nascido em 8 de abril de 1947, em Hilo, Havai. Ele é amplamente reconhecido por seu livro **"Pai Rico, Pai Pobre"** (*Rich Dad Poor Dad*), que se tornou um dos maiores sucessos de vendas de todos os tempos, inspirando milhões de pessoas ao redor do mundo a repensarem suas finanças pessoais e investimentos.
+  
+  ## Primeiros Anos e Formação
+  Kiyosaki cresceu em uma família de classe média, e seu pai biológico, a quem ele chama de "Pai Pobre", foi um educador dedicado, mas sem uma visão clara sobre dinheiro e investimentos. Em contraste, seu "Pai Rico", que na verdade era o pai de um amigo próximo, era um empresário de sucesso com uma abordagem totalmente diferente sobre como tratar o dinheiro e os ativos. Esse contraste entre as filosofias de vida dos dois homens influenciou profundamente o pensamento financeiro de Kiyosaki.
+  
+  Após a formatura, Kiyosaki serviu como piloto de helicóptero durante a Guerra do Vietnã. Após retornar aos Estados Unidos, ele se envolveu com o mercado de vendas, onde ganhou experiência com negócios e investimentos. Seu foco em aprender sobre dinheiro e buscar educação financeira o levou a escrever sobre suas experiências e ensinamentos.
+  
+  ## A Obra "Pai Rico, Pai Pobre"
+  Em 1997, Robert Kiyosaki publicou **"Pai Rico, Pai Pobre"**, um livro que se tornou um marco na educação financeira pessoal. O livro defende a importância de uma mentalidade de investidor, a aquisição de ativos em vez de passivos, e o aprendizado de habilidades financeiras práticas, além de desafiar as ideias tradicionais sobre dinheiro que são ensinadas nas escolas e universidades.
+  
+  A principal lição do livro é a diferença entre os pensamentos e hábitos de uma pessoa rica (o "Pai Rico") e uma pessoa que vive com mentalidade de escassez (o "Pai Pobre"). O sucesso de *Pai Rico, Pai Pobre* gerou uma série de outros livros, como:
+  
+  1. **O Negócio do Século XXI** (*The Business of the 21st Century*) - 2010
+  2. **Pai Rico, Pai Pobre para Jovens** (*Rich Dad's Guide to Teenager’s Financial Education*) - 2003
+  3. **Investimentos Inteligentes** (*Rich Dad's Increase Your Financial IQ*) - 2008
+  4. **Acorde para a Riqueza** (*Wake Up and Live the Life of Your Dreams*) - 2016
+  
+  Esses livros ajudam a orientar as pessoas a desenvolverem inteligência financeira, a entenderem a importância de ativos e passivos, e a focarem em como criar fontes de renda passiva.
+  
+  ## Filosofia e Visão
+  Kiyosaki tem uma abordagem focada em liberdade financeira, onde enfatiza a necessidade de aprender sobre dinheiro, investimentos, imóveis e estratégias empresariais para alcançar a independência financeira. Ele também é um defensor de novas formas de educação financeira que não são abordadas no sistema educacional tradicional, como aprender a investir, construir negócios e aumentar o patrimônio pessoal.
+  
+  Em suas palestras, Kiyosaki frequentemente adverte contra a dependência do sistema tradicional de aposentadoria e o foco excessivo em uma carreira corporativa. Ele recomenda que as pessoas busquem aprender a gerar fluxo de caixa passivo por meio de investimentos, negócios próprios e estratégias financeiras inteligentes.
+  
+  ## Vida Pessoal e Legado
+  Robert Kiyosaki é casado com Kim Kiyosaki, também uma educadora financeira, e juntos fundaram a empresa **Rich Global LLC**. Kiyosaki continua ativo como orador, empresário e autor, sendo um dos principais influenciadores no campo da educação financeira. Ele tem sido uma voz controversa, pois suas ideias desafiam o status quo, mas também um ícone para aqueles que desejam mudar sua forma de pensar sobre dinheiro e riqueza.
+  
+  Kiyosaki é também um defensor de diversas causas, incluindo o empreendedorismo, a educação financeira e a promoção de uma maior autonomia financeira para indivíduos e famílias em todo o mundo.
+  
+  ---
+  
+  > *"O dinheiro é um excelente servo, mas um péssimo mestre."* - Robert T. Kiyosaki
+    `
+  },
 ];
 
 export default autores;
